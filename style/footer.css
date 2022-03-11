@@ -1,0 +1,20 @@
+.footer{
+	background-color: rgb(52, 103, 103);
+	color: white;
+	text-align: center;
+	padding: 24px 0;
+	margin-top: 40px;
+	text-decoration: none;
+	display: flex;
+	justify-content: space-around;
+}
+
+#footer-list{
+	padding: 0;
+	list-style: none;
+}
+
+#footer-list li{
+	display: inline;
+	margin:0 16px;
+}
